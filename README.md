@@ -55,7 +55,7 @@
   <img width="8" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAx6camOf_G96Zcs2Zj34Yjmy0ysPd-p0oJQ&s" height="40" alt="ci logo"  />
    <img width="8" />
-  <img src="https://miro.medium.com/v2/resize:fit:1200/0*mjG1YdoT7xPcnznN.jpg" height="40" alt="ci logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlxnCQTZMxIPfFXGgFG2Vx9Sdh9D6CZBhJTw&s" height="40" alt="ci logo"  />
 
 
 </div>
